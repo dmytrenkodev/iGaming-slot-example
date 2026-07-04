@@ -1,4 +1,4 @@
-# NuxGame Laravel Task
+# iGaming-slot-example
 
 ## Running
 
